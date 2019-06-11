@@ -6,6 +6,7 @@ public class Prueba {
 		// TODO Auto-generated method stub
 		System.out.println("hola");
 		System.out.println("primer cambio guardado");
+		System.out.println("segundo cambio guardado");
 	}
 
 }
